@@ -5,7 +5,7 @@ Layout-aware PDF text + embedded link extractor built on PyMuPDF.
 ## Install
 
 ```bash
-pip install git+https://github.com/your-company/pdf-extractor
+pip install git+[https://github.com/vedant-mnh/pdf_extractor]
 ```
 
 ## Usage
